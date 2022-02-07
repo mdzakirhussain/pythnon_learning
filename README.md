@@ -23,6 +23,8 @@ The following are the topics
   
   https://youtu.be/vmEHCJofslg
   
+practice data set on github  https://github.com/KeithGalli/pandas
+  
   
   <h3>On Google colabs</h3>
   https://colab.research.google.com/drive/1_aQsa2cItVALecGLw1m2OzsjzCtFIc_j?usp=sharing
